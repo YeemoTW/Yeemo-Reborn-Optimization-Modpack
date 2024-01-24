@@ -1,0 +1,18 @@
+# Folders
+.bobby/
+.fabric/
+crash-reports/
+dashloader-cache/
+data/
+emotes/
+logs/
+ModTranslations/
+resourcepacks/
+saves/
+schematics/
+server-resource-packs/
+skins/
+
+# Files
+irisUpdateInfo.json
+servers.dat_old
