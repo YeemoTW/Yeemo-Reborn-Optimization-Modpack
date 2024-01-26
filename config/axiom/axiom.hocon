@@ -19,12 +19,12 @@ capabilities {
     flightCameraDirection=false
     flightMomentum=1
     # Bypass block placement restrictions
-    forcePlace=false
+    forcePlace=true
     # Removes the reach limit
     infiniteReach=false
     infiniteReachLimit=-1
     # Move through blocks while flying
-    noClip=true
+    noClip=false
     # Prevent triggering neighbor updates when placing/breaking
     noUpdates=false
     # Right-click blocks to replace them with the held block

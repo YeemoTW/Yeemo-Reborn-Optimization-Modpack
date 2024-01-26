@@ -1,4 +1,6 @@
-completedTutorials=[]
+completedTutorials=[
+    introduction
+]
 customDowngradeSuggestions=[]
 globalScale=1
 lastTranslationCount=33678

@@ -12,7 +12,17 @@ saves/
 schematics/
 server-resource-packs/
 skins/
+screenshots/
 
 # Files
 irisUpdateInfo.json
 servers.dat_old
+hotbar.nbt
+usercache.json
+
+# Litematica
+config/litematica/
+config/litematica.json
+
+# Screenshot Viewer
+config/screenshot_viewer-client.json
