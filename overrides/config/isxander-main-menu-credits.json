@@ -14,7 +14,7 @@
     "bottom_left": [],
     "bottom_right": [
       {
-        "text": "Yeemo Reborn Optimized 2.2.1",
+        "text": "Yeemo Reborn Optimized 2.6.0",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/YeemoTW/Yeemo-Reborn-Optimization-Modpack"

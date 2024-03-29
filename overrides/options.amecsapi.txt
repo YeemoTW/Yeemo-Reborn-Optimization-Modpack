@@ -32,6 +32,8 @@ key_modifiers_key.hotbar.6:0,0,0
 key_modifiers_key.hotbar.7:0,0,0
 key_modifiers_key.hotbar.8:0,0,0
 key_modifiers_key.hotbar.9:0,0,0
+key_modifiers_key.dynamic_fps.toggle_forced:0,0,0
+key_modifiers_key.dynamic_fps.toggle_disabled:0,0,0
 key_modifiers_axiom.keybind.context:0,0,0
 key_modifiers_axiom.keybind.builder_tool_slot:0,0,0
 key_modifiers_axiom.keybind.orbit_camera:0,0,0
@@ -64,8 +66,6 @@ key_modifiers_key.amecs.toggle_left_pants_leg:0,0,0
 key_modifiers_key.amecs.toggle_right_pants_leg:0,0,0
 key_modifiers_key.amecs.toggle_hat:0,0,0
 key_modifiers_key.antighost.reveal:0,0,0
-key_modifiers_key.dynamic_fps.toggle_forced:0,0,0
-key_modifiers_key.dynamic_fps.toggle_disabled:0,0,0
 key_modifiers_key.entityculling.toggle:0,0,0
 key_modifiers_key.itemswapper.itemswitcher:0,0,0
 key_modifiers_key.itemswapper.openInventory:0,0,0

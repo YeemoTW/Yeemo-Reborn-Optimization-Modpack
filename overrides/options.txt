@@ -34,10 +34,10 @@ gamma:1.0
 renderDistance:32
 simulationDistance:32
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:4
 particles:0
 maxFps:120
-graphicsMode:2
+graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
@@ -45,7 +45,7 @@ renderClouds:"true"
 resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","itemswapper:default"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:zh_tw
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
@@ -119,6 +119,8 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_axiom.keybind.context:key.keyboard.left.alt
 key_axiom.keybind.builder_tool_slot:key.keyboard.0
 key_axiom.keybind.orbit_camera:key.keyboard.unknown
@@ -151,8 +153,6 @@ key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
-key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
-key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.r
 key_key.itemswapper.openInventory:key.keyboard.unknown

@@ -1,7 +1,11 @@
-completedTutorials=[]
+completedTutorials=[
+    introduction,
+    "box_select_tool",
+    selection
+]
 customDowngradeSuggestions=[]
 globalScale=1
-lastTranslationCount=0
+lastTranslationCount=45925
 openEditorWindowTypes=[
     tools,
     "tool_options",
@@ -18,5 +22,5 @@ rootEditorPalette {
 savedCustomTheme="ASel0AAAlJbUd1aURhcmsAAA=="
 showCloseWindowButton=false
 showNon90DegreeRotationWarning=true
-showToolMaskOpenWarning=true
-shownIntroduction=false
+showToolMaskOpenWarning=false
+shownIntroduction=true
