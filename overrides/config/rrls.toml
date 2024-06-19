@@ -1,8 +1,13 @@
-enabled = true
+hideType = "RELOADING"
 rgbProgress = false
-loadingScreenHide = false
-showIn = "ALL"
+forceClose = false
+blockOverlay = false
+miniRender = true
 type = "PROGRESS"
 reloadText = ""
 resetResources = false
 reInitScreen = true
+removeOverlayAtEnd = true
+earlyPackStatusSend = false
+doubleLoad = "FORCE_LOAD"
+animationSpeed = 1000.0

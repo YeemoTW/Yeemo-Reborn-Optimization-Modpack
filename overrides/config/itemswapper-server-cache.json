@@ -1,6 +1,6 @@
 {
-  "enableOnIp": [
+  "enableOnIp": [],
+  "disableOnIp": [
     "yeemo.tw"
-  ],
-  "disableOnIp": []
+  ]
 }

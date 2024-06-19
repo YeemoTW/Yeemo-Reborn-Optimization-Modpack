@@ -14,5 +14,10 @@
   "fallbackInventory": true,
   "vivecraftCompat": true,
   "allowWalkingWithUI": true,
-  "startOnItem": true
+  "startOnItem": false,
+  "pickblockOnToolsWeapons": "VANILLA_ON_TOOL",
+  "experimentalAutoPalette": false,
+  "alwaysInventory": false,
+  "showHotbar": false,
+  "rememberPalette": false
 }
