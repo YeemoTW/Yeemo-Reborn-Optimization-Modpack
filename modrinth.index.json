@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "2.8.0",
+  "versionId": "2.8.1",
   "name": "Yeemo",
   "summary": "",
   "files": [
@@ -394,21 +394,6 @@
         "https://cdn.modrinth.com/data/N6n5dqoA/versions/Mq7PFqq2/Axiom-3.0.0-for-MC1.20.1.jar"
       ],
       "fileSize": 39945165
-    },
-    {
-      "path": "mods/nvidium-0.2.6-beta.jar",
-      "hashes": {
-        "sha1": "ce0c8504cfc397b53227119230e3ae5fdf851d42",
-        "sha512": "fdcb8936da825d5ae7885deba4bfb269528dbcd126363f82a68e43c11f4c12e0a01ab6511aed1b1dcfb20223fc6536b5ec9922c06eda6fd29022001276917bf3"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/SfMw2IZN/versions/J2fuM58R/nvidium-0.2.6-beta.jar"
-      ],
-      "fileSize": 164283
     },
     {
       "path": "mods/litematica-printer-1.20.1-3.2.1.jar",
